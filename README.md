@@ -7,5 +7,5 @@
 - list
 
 ----
-
 /usr/share/
+----
